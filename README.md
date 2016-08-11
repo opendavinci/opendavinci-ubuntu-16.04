@@ -1,4 +1,4 @@
-# Dockerfile for OpenDaVINCI on Ubuntu 14.04
+# Dockerfile for OpenDaVINCI on Ubuntu 16.04
 
 These Docker build instructions contain all required dependencies to run
 applications that are realized with OpenDaVINCI (http://www.opendavinci.org,
