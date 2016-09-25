@@ -59,3 +59,6 @@ RUN apt-get clean && \
 RUN apt-get install -y --no-install-recommends ffmpeg
 
 RUN apt-get install -y --no-install-recommends iputils-ping iproute2 bc
+
+RUN apt-get install -y --no-install-recommends ccache
+
