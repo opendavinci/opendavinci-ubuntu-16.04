@@ -64,3 +64,5 @@ RUN apt-get install -y --no-install-recommends ccache
 
 RUN apt-get install -y --no-install-recommends libfuse-dev
 
+RUN apt-get install -y --no-install-recommends gdbserver
+
